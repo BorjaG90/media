@@ -252,7 +252,23 @@
 				"Triano",
 				"Wiggins"
 			]
-    },
+		},
+		{
+			"country_EN": "Croatia",
+      "country_ES": "Croacia",
+      "firstname": [
+				"Bozidar",
+				"Gordon",
+				"Jalen",
+				"Zikica"
+			],
+			"lastname":[
+				"Bajic",
+				"Pokorn",
+				"Sesar",
+				"Sprem"
+			]
+		},
     {
       "country_EN": "France",
       "country_ES": "Francia",
@@ -548,6 +564,7 @@
       "country_ES": "Lituania",
       "firstname": [
 				"Adas",
+				"Algirdas",
 				"Artüras",
 				"Artüras",
 				"Arvydas",
@@ -555,19 +572,25 @@
 				"Domantas",
 				"Donatas",
 				"Edgaras",
+				"Edvardas",
 				"Eimantas",
+				"Ernestas",
 				"Jonas",
 				"Mantas",
 				"Marius",
 				"Martynas",
 				"Mindaugas",
 				"Rimas",
+				"Romanas",
 				"Sarünas",
-				"Valdemaras"
+				"Valdemaras",
+				"Valentinas"
 			],
       "lastname":[
+				"Barasa",
 				"Chomicius",
 				"Gecevicius",
+				"Grigaitis",
 				"Grigonis",
 				"Jasikevicius",
 				"Juskevicius",
@@ -577,14 +600,29 @@
 				"Kuzminskas",
 				"Macijauskas",
 				"Maciulis",
+				"Malinauskas",
 				"Marciulonis",
 				"Milaknis",
 				"Motiejunas",
+				"Lapinskas",
+				"Luksys",
 				"Sabonis",
+				"Savickas",
+				"Slavickas",
 				"Ulanovas",
 				"Valanciunas"
 			]
-    },
+		},
+		{
+			"country_EN": "FYORM",
+      "country_ES": "Macedonia",
+			"firstname": [
+				"Vlado"
+			],
+			"lastname": [
+				"Gjuroski"
+			]
+		},
     {
       "country_EN": "Mexico",
       "country_ES": "México",
@@ -747,7 +785,19 @@
 				"Silva",
 				"Soares"
 			]
-    },
+		},
+		{
+			"country_EN": "Puerto Rico",
+      "country_ES": "Puerto Rico",
+			"firstname": [
+				"Franklin",
+				"Patricio"
+			],
+			"lastname": [
+				"Mayele",
+				"Pedroza"
+			]
+		},
     {
       "country_EN": "Russia",
       "country_ES": "Rusia",
@@ -878,14 +928,16 @@
 				"Albert",
 				"Alberto",
 				"Alejandro",
-				"Álvar",
-				"Álvaro",
+				"Alexis",
+				"Arturo",
 				"Andrés",
 				"Ángel",
-				"Arturo",
+				"Álvar",
+				"Álvaro",
 				"Bernardo",
 				"Borja",
 				"Carlos",
+				"Cayetano",
 				"Damian",
 				"Dani",
 				"Daniel",
@@ -912,6 +964,7 @@
 				"Javier",
 				"Jesús",
 				"José",
+				"José Ángel",
 				"José Andrés",
 				"José Francisco",
 				"José Manuel",
@@ -920,6 +973,7 @@
 				"Juan Carlos",
 				"Juan Ignacio",
 				"Julio",
+				"Lucas",
 				"Luis",
 				"Manu",
 				"Manuel",
@@ -952,6 +1006,7 @@
 				"Blanco",
 				"Calderón",
 				"Calvo",
+				"De Paula",
 				"Díaz",
 				"Díez",
 				"Fernández",
@@ -974,6 +1029,7 @@
 				"Manso",
 				"Martín",
 				"Martínez",
+				"Medina",
 				"Navarro",
 				"Nebreda",
 				"Ortigosa",
@@ -987,7 +1043,10 @@
 				"Riberas",
 				"Sáez",
 				"Salas",
+				"Salgado",
 				"Sinobas",
+				"Velasco",
+				"Villa",
 				"Yepes"
 			]
     },
@@ -1054,11 +1113,15 @@
 				"Charles",
 				"Chris",
 				"Damian",
+				"Dave",
 				"D'Angelo",
 				"Dwight",
 				"Elfrid",
+				"Folarin",
 				"Gary",
 				"George",
+				"Howard",
+				"Ira Newble",
 				"Jameer",
 				"Jeff",
 				"Jermaine",
@@ -1066,6 +1129,7 @@
 				"John",
 				"Johnny",
 				"Jonathan",
+				"Joseph",
 				"Josh",
 				"Julius",
 				"Karl",
@@ -1073,6 +1137,7 @@
 				"Kevin",
 				"Kobe",
 				"LeBron",
+				"Lee",
 				"Michael",
 				"Mike",
 				"Mitch",
@@ -1081,6 +1146,7 @@
 				"Nick",
 				"Odell",
 				"Paul",
+				"Pierre",
 				"Rashard",
 				"Richard",
 				"Rick",
@@ -1090,10 +1156,12 @@
 				"Stephen",
 				"Tony",
 				"Tracy",
-				"Wilt"
+				"Wilt",
+				"Zach"
 			],
       "lastname":[
 				"Anderson",
+				"Bailey",
 				"Barkley",
 				"Beckham",
 				"Becks",
@@ -1103,7 +1171,9 @@
 				"Clinton",
 				"Curry",
 				"Davis",
+				"Dudley",
 				"Durant",
+				"Eisley",
 				"Erving",
 				"George",
 				"Gordon",
@@ -1111,8 +1181,10 @@
 				"Hardaway",
 				"Hart",
 				"Hayward",
+				"Hunter",
 				"Howard",
 				"Irving",
+				"Ivory",
 				"James",
 				"Jefferson",
 				"Jordan",
@@ -1129,17 +1201,22 @@
 				"Paul",
 				"Payton",
 				"Peeler",
+				"Price",
 				"Randle",
 				"Richard",
 				"Richards",
 				"Richmond",
+				"Rhodes",
 				"Russell",
 				"Simmons",
+				"Slaughter",
 				"Stockton",
 				"Tyson",
 				"Van Gundy",
 				"Walton",
-				"Weltman"
+				"Watterson",
+				"Weltman",
+				"Wilkins"
 			]
     }
   ]
