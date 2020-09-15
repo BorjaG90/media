@@ -61,9 +61,14 @@ Enlace a la licencia.
 
 ## Final del fichero
 
+<a href="mailto:borjag90dev@gmail.com" alt="Borja Gete mail"><img src="https://img.shields.io/badge/BorjaG90-DDDDDD?style=for-the-badge&logo=gmail" title="Go To mail" alt="Borja Gete mail"/></a>
+Enlace al correo.
+</br>
+
 <a href="https://github.com/BorjaG90" alt="Borja Gete Github"><img src="https://img.shields.io/badge/BorjaG90-black?style=for-the-badge&logo=github" title="Go To Github Profile" alt="Borja Gete Github"/></a>
 Enlace a Perfil de GitHub.
 </br>
 
 <a href="https://linkedin.com/borjag90" alt="Borja Gete LinkedIn"><img src="https://img.shields.io/badge/BorjaG90-blue?style=for-the-badge&logo=linkedin" title="Go To LinkedIn Profile" alt="Borja Gete LinkedIn"/></a>
-Enlace a Perfil de LinkedIn</br>.
+Enlace a Perfil de LinkedIn
+</br>
