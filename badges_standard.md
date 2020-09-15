@@ -14,7 +14,10 @@ Proyecto resultante de seguir algún curso de alguna plataforma o video educativ
 Proyecto personal/Side Project que sirve como adición a mi portfolio y en el que pretendo mostrar las habilidades que he obtenido.
 
 ![Template](https://img.shields.io/badge/Project-Template-green.svg)
-Proyecto plantilla que uso como template/scaffolding para iniciar futuros proyectos desde el anteriormente mencionado.
+Proyecto plantilla que uso como template/scaffolding para iniciar futuros proyectos.
+
+![Work](https://img.shields.io/badge/Project-Work-red.svg)
+Proyecto de trabajo/para un tercero.
 
 ### Estado del proyecto
 
