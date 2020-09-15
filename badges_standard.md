@@ -63,7 +63,7 @@ Proyecto no mantenido, no realizaré cambios sobre el mismo.
 ## Final del fichero
 
 <a href="mailto:borjag90dev@gmail.com" alt="Borja Gete mail">
-  <img src="https://img.shields.io/badge/BorjaG90-DDDDDD?style=for-the-badge&logo=gmail" title="Go To mail" alt="Borja Gete mail"/>
+  <img src="https://img.shields.io/badge/borjag90dev@gmail.com-DDDDDD?style=for-the-badge&logo=gmail" title="Go To mail" alt="Borja Gete mail"/>
 </a> Enlace al correo.
 </br>
 
