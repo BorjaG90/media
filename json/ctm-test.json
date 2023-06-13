@@ -1,0 +1,88 @@
+{
+  "games-carousel": [
+    {
+      "id": 1,
+      "home": {
+        "name": "Miami Heat",
+        "abbreviature": "MIA",
+        "points": 90
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "abbreviature": "DEN",
+        "points": 120
+      },
+      "played": true,
+      "date": "25/04/2023 01:00:00AM"
+    },
+    {
+      "id": 2,
+      "home": {
+        "name": "Boston Celtics",
+        "abbreviature": "BOS",
+        "points": 101
+      },
+      "away": {
+        "name": "Los Ángeles Lakers",
+        "abbreviature": "LAL",
+        "points": 105
+      },
+      "played": true,
+      "date": "25/04/2023 01:00:00AM"
+    },
+    {
+      "id": 3,
+      "home": {
+        "name": "San Antonio Spurs",
+        "abbreviature": "SAS",
+        "points": 103
+      },
+      "away": {
+        "name": "Houston Rockets",
+        "abbreviature": "HOU",
+        "points": 78
+      },
+      "played": true,
+      "date": "25/04/2023 02:00:00AM"
+    },{
+      "id": 4,
+      "home": {
+        "name": "Orlando Magic",
+        "abbreviature": "ORL",
+        "points": 0
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "abbreviature": "DET",
+        "points": 0
+      },
+      "played": false,
+      "date": "25/04/2023 03:00:00AM"
+    },
+    {
+      "id": 5,
+      "home": {
+        "name": "New York Knicks",
+        "abbreviature": "NYK",
+        "points": 0
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "abbreviature": "ATL",
+        "points": 0
+      },
+      "played": false,
+      "date": "25/04/2023 04:00:00AM"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
